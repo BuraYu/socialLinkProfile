@@ -59,7 +59,7 @@ img {
   flex-direction: column;
   width: 304px;
   height: 61px;
-  border: 2px solid #1f1f1f;
+  border: 1px solid black;
 }
 
 h4 {
@@ -68,7 +68,7 @@ h4 {
   font-size: 24px;
   color: white;
   filter: drop-shadow(1px 1px black);
-  margin: 0;
+  margin: 4px;
 }
 
 h5 {
