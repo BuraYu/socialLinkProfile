@@ -64,18 +64,20 @@ img {
   height: 61px;
 }
 
-h4 {
+author {
   text-align: center;
   font-family: "InterSemi", sans-serif;
+  font-size: 1em;
   padding: 5px;
   font-size: 24px;
   color: white;
   filter: drop-shadow(1px 1px hsl(0, 0%, 8%));
 }
 
-h5 {
+address {
   text-align: center;
   font-family: "InterBold", sans-serif;
+  font-size: 0.83em;
   color: #c4f82a;
   font-size: 14px;
   filter: drop-shadow(1px 1px hsl(0, 0%, 8%));
