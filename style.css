@@ -38,7 +38,7 @@ body {
   color: hsl(0, 0%, 100%);
 }
 
-.main-container {
+main {
   padding: 40px;
   height: 611px;
   width: 384px;
@@ -121,7 +121,7 @@ li:last-child {
 }
 
 @media only screen and (max-width: 375px) {
-  .main-container {
+  main {
     padding: 24px;
     height: 579px;
     width: 327px;
